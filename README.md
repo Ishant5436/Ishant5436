@@ -1,17 +1,29 @@
-### Hi there 👋, I'm Ishant.
+# Hi, I'm Ishant 👋
 
-I'm a senior software engineer and security auditor focusing on Rust, TypeScript, Python, and Web3 infrastructure. 
+I build **autonomous AI agents** and **quantitative trading systems** — software that plans, executes, and learns with minimal supervision.
 
-Currently, I spend my weekends contributing to high-impact open source projects, performing security audits on smart contracts, and tackling complex system architecture bounties. 
+## What I work on
 
-**What I do:**
-- 🦀 **Systems & Blockchain:** Writing safe, high-performance Rust for Solana and core infrastructure.
-- ⚡ **Fullstack TS/Python:** Building scalable backends, orchestrating robust CI/CD pipelines, and writing comprehensive test suites.
-- 🛡️ **Security Auditing:** I actively hunt for vulnerabilities in DeFi protocols and large-scale web applications.
+- 🤖 **Autonomous agents** — multi-agent orchestration, LLM tool use, and self-improving execution loops
+- 📈 **Quant & trading infrastructure** — ML-driven bots, honest backtesting harnesses, and execution engines for crypto markets
+- ⛓️ **Solana & Web3** — payment-indexed services, DeFi tooling, and on-chain settlement
+- 🛠️ **Developer tooling** — infrastructure that makes AI coding agents reliable in production
 
-**My open source philosophy:**
-I believe in "Test-Driven Contributions." I never submit code without local tests passing, and I prioritize minimal, surgical changes over massive, untestable refactors.
+## Selected projects
 
-*Note: Earlier this year I experimented with automated CI/CD security scanners that generated some noisy alerts in my commit history. I've since moved back to 100% manual, high-signal contributions.*
+| Project | What it is |
+|---|---|
+| [polymarket-btc-bot](https://github.com/Ishant5436/polymarket-btc-bot) | ML-driven, gasless trading bot for Polymarket's 5-minute BTC markets — LightGBM inference, real-time Binance streams, post-only maker execution on Polygon |
+| [pyrycode](https://github.com/Ishant5436/pyrycode) | Process supervisor for Claude Code — crash recovery, session resume, attach/detach, and a Unix-socket control plane, written in Go |
+| [SolCloud](https://github.com/Ishant5436/SolCloud) | Middleware that auto-provisions isolated Cloudflare R2 storage buckets, gated by a Solana payment indexer — no human in the loop |
+| [FundWise](https://github.com/Ishant5436/FundWise) | Reverse Splitwise on Solana — pooled group funds with on-chain settlement |
 
-📫 Feel free to reach out if you need an extra set of eyes on a complex bug or an architectural review.
+## Stack
+
+`Python` · `TypeScript` · `Rust` · `Go` · `Solana` · `FastAPI` / `NestJS` · `LightGBM` / applied ML
+
+## How I contribute to open source
+
+Minimal, surgical diffs — scoped to the issue, with tests passing locally before any PR goes up.
+
+📫 Open to collaborating on agents, quant tooling, and Solana projects — open an issue on any of my repos to get in touch.
