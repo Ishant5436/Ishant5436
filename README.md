@@ -1,4 +1,4 @@
-# Hi, I'm Ishant 👋
+# Hi, I'm Ishant 
 
 I build **autonomous AI agents** and **quantitative trading systems** — software that plans, executes, and learns with minimal supervision.
 
