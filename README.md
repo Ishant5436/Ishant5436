@@ -1,6 +1,6 @@
 # Ishant Panchal
 
-**Systems engineer and Web3 security researcher.** I build low-latency trading infrastructure and autonomous agents, and I audit smart contracts for a living on the side.
+**Systems engineer and Web3 security researcher.** I build low-latency trading infrastructure and autonomous agents, and hunt for vulnerabilities in smart contracts.
 
 Engineering student at K. J. Somaiya College of Engineering, Mumbai.
 
@@ -21,13 +21,13 @@ Engineering student at K. J. Somaiya College of Engineering, Mumbai.
 | [pyrycode](https://github.com/Ishant5436/pyrycode) | Process supervisor for Claude Code — crash recovery, session resume, attach/detach, and a Unix-socket control plane | Go |
 | [polymarket-btc-bot](https://github.com/Ishant5436/polymarket-btc-bot) | Gasless trading bot for Polymarket's 5-minute BTC markets — LightGBM inference on live Binance streams, post-only maker execution on Polygon | Python |
 | [SolCloud](https://github.com/Ishant5436/SolCloud) | Auto-provisions isolated Cloudflare R2 buckets, gated by a Solana payment indexer — no human in the loop | TypeScript · Solana |
-| [FundWise](https://github.com/Ishant5436/FundWise) | Reverse Splitwise on Solana — pooled group funds with on-chain settlement | Rust · Solana |
+| [FundWise](https://github.com/Ishant5436/FundWise) | Reverse Splitwise on Solana — pooled group funds with on-chain settlement | TypeScript · Next.js · Solana |
 
 ### Toolbox
 
 **Languages** — C++ · Rust · Go · Python · TypeScript · Solidity  
 **Web3** — Foundry · Anchor · Slither · Mythril · cargo-audit  
-**Backend & infra** — FastAPI · NestJS · Docker · GitHub Actions
+**Backend & infra** — FastAPI · NestJS · Next.js · Supabase · GitHub Actions  
 **Data** — NumPy · LightGBM  
 
 ### How I work
